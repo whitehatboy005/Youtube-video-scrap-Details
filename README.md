@@ -1,5 +1,5 @@
 # YouTube Video Information Fetcher
-This Python application provides a graphical user interface (GUI) for fetching and displaying details about a YouTube video using the YT-DLB library. Users can enter a YouTube URL, click "Fetch Info", and view details such as title, views, duration, description, and ratings of the video.
+This Python application provides a graphical user interface (GUI) for fetching and displaying details about a YouTube video using the YT-DLP library. Users can enter a YouTube URL, click "Fetch Info", and view details such as title, views, duration, description, and ratings of the video.
 
 ## Features
 - **YouTube URL Entry**: Allows users to input the URL of the YouTube video they want to fetch information about.
