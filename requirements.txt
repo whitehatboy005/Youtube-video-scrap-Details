@@ -1,2 +1,2 @@
 tk-tools
-pytube
+yt-dlp==2024.12.23
